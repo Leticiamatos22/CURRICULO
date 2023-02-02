@@ -1,0 +1,75 @@
+ body {
+    margin: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:rgb(185, 185, 185) ;
+    }
+    
+.geral{
+    background-color: white;
+    padding: 2%;
+}
+
+   
+.Nome{
+    width: 40%;
+    height:auto;
+    background-color:rgb(179, 177, 177);
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    
+}
+
+.cabeçalho{
+    width:auto;
+    height: auto;
+    background-color:white;
+    text-align:justify;
+    margin-left:30%;
+    margin-right: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.formacao{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.formação{
+    width: auto;
+    height: auto;
+    background-color:white;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cursoss{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cursos{
+    width:auto;
+    height: auto;
+    background-color: white;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.experienciass{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.experiencias{
+    width: auto;
+    height: auto;
+    background-color: white;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.apresentacao{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 1000px;
+    margin-top: -70px;
+}
