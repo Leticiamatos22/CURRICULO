@@ -9,7 +9,6 @@
     background-color: white;
     padding: 2%;
 }
-
    
 .Nome{
     width: 40%;
@@ -72,4 +71,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-left: 1000px;
     margin-top: -70px;
+}
+
+.botao:hover{
+    width: 60%;
+    border:5px solid rgb(0,0,0);
 }
